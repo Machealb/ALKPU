@@ -1,3 +1,8 @@
+# ALKPU  
+
+ALKPU is a active learing method based on extended Kalman filter for ab-iniito molecular dynamcis package MLFF. It contains two main parts: the Kalman filter based optimizer and the Kalman filter based uncertanty quantification.
+
+
 # MLFF
 
 MLFF is a machine learning(ML) based method of force fields (FF) for molecular dynamics simulations, which is written in Python/Fortran.
